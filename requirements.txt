@@ -1,0 +1,6 @@
+streamlit
+ffmpeg-python
+pydub
+gTTS
+openai-whisper
+torch==2.0.1
